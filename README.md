@@ -9,5 +9,5 @@ I'm a freshman at Wootton High School interested in all things tech. I'm interes
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=c++)
 
