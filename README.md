@@ -16,6 +16,7 @@ I'm a sophomore at Wootton High School who loves all things tech. I'm interested
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![ROS](https://img.shields.io/badge/ROS-%23121011.svg?style=for-the-badge&logo=ROS&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23121011.svg?style=for-the-badge&logo=git&logoColor=white)
+![MATPLOTLIB](https://img.shields.io/badge/MATPLOTLIB-%23121011.svg?style=for-the-badge&logo=MATPLOTLIB&logoColor=white)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=kamilpytlak&theme=radical&no-frame=false&no-bg=false&margin-w=4)
