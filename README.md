@@ -1,6 +1,6 @@
 # Hey, I'm Allison Andreyev <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30"> ![](https://visitor-badge.glitch.me/badge?page_id=allisonandreyev.allisonandreyev)
 
-I'm a freshman at Wootton High School interested in all things tech. I'm interested in full-stack development, engineering, IT, and a variety of other topics. 
+I'm a sophomore at Wootton High School who loves all things tech. I'm interested in full-stack development, engineering, IT, and a variety of other topics. 
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=allisonandreyev&show_icons=true&theme=gotham" alt="allisonandreyev" width="500" mb="12px" />
 
