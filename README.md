@@ -4,19 +4,6 @@ I'm a sophomore at Wootton High School who loves all things tech. I'm interested
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=allisonandreyev&show_icons=true&theme=gotham" alt="allisonandreyev" width="500" mb="12px" />
 
-#### Languages/Frameworks & Tools
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
-![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=c++)
-![C](https://img.shields.io/badge/-C-black?style=flat-square&logo=C)
-![SQL](https://img.shields.io/badge/-SQL-black?style=flat-square&logo=SQL)
-![AWS](https://img.shields.io/badge/-AWS-black?style=flat-square&logo=AWS)
-![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=Linux)
-![Shell](https://img.shields.io/badge/-Shell-black?style=flat-square&logo=Shell)
-![ROS](https://img.shields.io/badge/-ROS-black?style=flat-square&logo=ROS)
-
 # 💻 Tech Stack:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
@@ -29,11 +16,6 @@ I'm a sophomore at Wootton High School who loves all things tech. I'm interested
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![ROS](https://img.shields.io/badge/ROS-%23121011.svg?style=for-the-badge&logo=ROS&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23121011.svg?style=for-the-badge&logo=git&logoColor=white)
-
-### Python Specific
-- NumPy
-- MATPLOTLIB
-- Pandas
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=kamilpytlak&theme=radical&no-frame=false&no-bg=false&margin-w=4)
