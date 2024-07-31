@@ -2,7 +2,7 @@
 
 I'm a sophomore at Wootton High School who loves all things tech. I'm interested in the intersection of full-stack development, electrical engineering, IT, autonomous robotics, AI + ML, and entrepreneurship. 
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=allisonandreyev&show_icons=true&theme=gotham" alt="allisonandreyev" width="500" mb="12px" />
+![Allison's GitHub stats](https://github-readme-stats.vercel.app/api?username=allisonandreyev&show_icons=true&theme=transparent)
 
 # 💻 Tech Stack:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
