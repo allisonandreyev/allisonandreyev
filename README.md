@@ -1,6 +1,6 @@
 # Hey, I'm Allison Andreyev <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30"> ![](https://visitor-badge.glitch.me/badge?page_id=allisonandreyev.allisonandreyev)
 
-I'm a sophomore in high school who loves all things tech. I'm interested in the intersection of full-stack development, cybersecurity, IT, autonomous robotics, AI + ML, and entrepreneurship. 
+I'm a sophomore in high school who loves all things tech. I'm interested in the intersection of full-stack development, cybersecurity, robotics, AI + ML, and entrepreneurship. 
 
 ![Allison's GitHub stats](https://github-readme-stats.vercel.app/api?username=allisonandreyev&show_icons=true&theme=transparent)
 
