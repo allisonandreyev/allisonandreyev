@@ -12,7 +12,7 @@ I'm a sophomore in high school, with a strong passion for technology. My current
 ![Django](https://img.shields.io/badge/-Django-black?style=flat-square&logo=Django)
 ![Matplotlib](https://img.shields.io/badge/-matplotlib-black?style=flat-square&logo=matplotlib)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
+![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=Java)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-black?style=flat-square&logo=Raspberry-Pi)
 ![AWS](https://img.shields.io/badge/-AWS-black?style=flat-square&logo=AWS)
 ![MySQL](https://img.shields.io/badge/-mysql-black?style=flat-square&logo=mysql)
