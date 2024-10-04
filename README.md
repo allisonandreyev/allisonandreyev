@@ -17,7 +17,7 @@ I'm a sophomore in high school, with a strong passion for technology. My current
 ![AWS](https://img.shields.io/badge/-AWS-black?style=flat-square&logo=AWS)
 ![MySQL](https://img.shields.io/badge/-mysql-black?style=flat-square&logo=mysql)
 ![NumPy](https://img.shields.io/badge/-numpy-black?style=flat-square&logo=numpy)
-![C++](https://img.shields.io/badge/-c++-black?style=flat-square&logo=c++)
+![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=C++)
 ![Pandas](https://img.shields.io/badge/-pandas-black?style=flat-square&logo=pandas)
 ![Linux](https://img.shields.io/badge/-linux-black?style=flat-square&logo=linux)
 ![Bash script](https://img.shields.io/badge/-shell_script-black?style=flat-square&logo=gnu-bash)
