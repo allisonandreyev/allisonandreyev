@@ -18,7 +18,7 @@ I'm a sophomore in high school, with a strong passion for technology. My current
 ![NumPy](https://img.shields.io/badge/-numpy-black?style=flat-square&logo=numpy)
 ![Pandas](https://img.shields.io/badge/-pandas-black?style=flat-square&logo=pandas)
 ![Linux](https://img.shields.io/badge/-linux-black?style=flat-square&logo=linux)
-![Bash script](https://img.shields.io/badge/-gnu-bash-black?style=flat-square&logo=gnu-bash)
+![Bash script](https://img.shields.io/badge/-shell_script-black?style=flat-square&logo=gnu-bash)
 ![ROS](https://img.shields.io/badge/-ROS-black?style=flat-square&logo=ROS)
 ![C++](https://img.shields.io/badge/-c++-black?style=flat-square&logo=c++)
 ![Matplotlib](https://img.shields.io/badge/-matplotlib-black?style=flat-square&logo=matplotlib)
