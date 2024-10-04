@@ -2,7 +2,7 @@
 
 I'm a sophomore in high school, with a strong passion for technology. My current interests lie in software engineering, AI/ML, and robotics. My hobbies involve tackling challenges and I also enjoy researching and engineering creative solutions. In my free time, I work on robotics sofware and simulation engines in my home lab. Beyond computers, I also enjoy taekwondo and debate.
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=allisonandreyev&show_icons=true&theme=gotham" alt="tinuh" width="500" mb="12px" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=allisonandreyev&show_icons=true&theme=gotham" alt="allison" width="500" mb="12px" />
 
 ![Allison's GitHub stats](https://github-readme-stats.vercel.app/api?username=allisonandreyev&show_icons=true&theme=transparent)
 
