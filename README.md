@@ -18,9 +18,3 @@ I'm a sophomore in high school who loves all things tech. I'm interested in the 
 ![Git](https://img.shields.io/badge/git-%23121011.svg?style=for-the-badge&logo=git&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%23121011.svg?style=for-the-badge&logo=c++&logoColor=white)
 ![MATPLOTLIB](https://img.shields.io/badge/MATPLOTLIB-%23121011.svg?style=for-the-badge&logo=MATPLOTLIB&logoColor=white)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=kamilpytlak&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
